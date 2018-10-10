@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-timuu-r2d",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "nbbpm": {
     "compatibility": "^1.10.0"
   },
@@ -11,13 +11,18 @@
   "contributors": [
     {
       "name": "Ahmet Buğra Avcılar",
-      "email": ": abavcilar@gmail.com",
+      "email": "abavcilar@gmail.com",
       "url": "http://www.ahmetbugra.com"
     },
     {
       "name": "Yasin Arıbuğa",
       "email": "yasin.aribuga@gmail.com",
       "url": "https://twenycrows.tumblr.com/"
+    },
+    {
+      "name": "Kip",
+      "email": "kip@redux2d.com",
+      "url": "https://www.redux2d.com"
     }
   ],
   "repository": {
