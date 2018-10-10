@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-timuu",
+	"id": "nodebb-theme-timuu-r2d",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{

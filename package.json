@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-timuu",
+  "name": "nodebb-theme-timuu-r2d",
   "version": "0.2.5",
-   "nbbpm": {
+  "nbbpm": {
     "compatibility": "^1.10.0"
   },
   "description": "Timuu's NodeBB theme",
@@ -22,9 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/timuu/nodebb-theme-timuu"
+    "url": "https://github.com/Redux2D/nodebb-theme-timuu"
   },
   "bugs": {
-    "url": "https://github.com/timuu/nodebb-theme-timuu/issues"
+    "url": "https://github.com/Redux2D/nodebb-theme-timuu/issues"
+  },
+  "dependencies": {
+    "travis": "^0.1.1"
   }
 }
